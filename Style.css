@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-family:sans-serif;
+}
+
+nav {
+    background-image: linear-gradient(blue, red);
+    margin: 0px;
+}
+
+h2 {
+    color: blue;
+}
+
+.contentDiv {
+    background-color: bisque;
+}
+
+body {
+    padding: 0px;
+    background-image: url("mybg.jpg");
+    background-size: cover;
+    height: fit-content;
+}
